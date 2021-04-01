@@ -46,7 +46,10 @@ This page need to answer the following challenges:
     - buttons 
 3. main content
   - landing photo and text
+    - knife photo
+    - description of the knife and use 
   - product diagram
+    - top photo that change to diagram when hover 
   - functions
     - video
     - exploded view
@@ -55,17 +58,29 @@ This page need to answer the following challenges:
   - contact form
   - author information
 
+# Illustration
+Logo: photo zoom on victorinox logo
+photo knife from side
+photo knife from top
+photo kife from top tools open
+- [ ] diagram knife with tools
+- [ ] tools shadow
 
 # Page Style
 - font: helvetica
 - colors:
-  - white dominance
-  - red victorinox for titles
-  - drak grey for the text
-  - light grey for elements 
+  - white dominance #ffffff
+  - red victorinox for titles #d80000
+  - drak grey for the text #282828
+  - light grey for elements #b1b1b1
+
 - layout:
   - CSS grid
   - whitespace between elements
+Big header with logo of knife and title on top
+nav bar bellow the header
+main content cut in 2x2 grid with media queries to display in colunm or 2x2 depending on screen size
+
 - design:
   - white space arround elements
   - no borders or light grey shadows
