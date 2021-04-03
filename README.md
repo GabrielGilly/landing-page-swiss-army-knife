@@ -43,13 +43,13 @@ This page need to answer the following challenges:
   - title
   - nav bar
     - background
-    - buttons 
+    - buttons
 3. main content
   - landing photo and text
     - knife photo
-    - description of the knife and use 
+    - description of the knife and use
   - product diagram
-    - top photo that change to diagram when hover 
+    - top photo that change to diagram when hover
   - functions
     - video
     - exploded view
@@ -59,12 +59,14 @@ This page need to answer the following challenges:
   - author information
 
 # Illustration
-Logo: photo zoom on victorinox logo
-photo knife from side
-photo knife from top
-photo kife from top tools open
-- [ ] diagram knife with tools
-- [ ] tools shadow
+detailed functions https://m.media-amazon.com/images/S/aplus-media/vc/7c7633cd-1d21-4d95-85cd-26751e297e03._SR970,300_.jpg
+top photo https://i.ebayimg.com/images/i/131043589738-0-1/s-l1000.jpg
+alox version https://4.bp.blogspot.com/_Icr1ia1RjhE/TUZOYzAWqJI/AAAAAAAAAHg/AO_wkvCM-IQ/s1600/IMG_2712b.jpg
+all tools open + close + hand https://www.coltelleriacollini.com/media/catalog/product/v/i/victorinox-rambler-v.06363.jpg
+all tools open https://www.knivesandtools.co.uk/productimages/photogallery/photos/victorinox-rambler-VT5V06363-d1.jpg
+all tools open on table https://s3.amazonaws.com/images.gearjunkie.com/uploads/2017/02/victorinox-rambler-review-700x451.jpg
+all tools open https://www.bhphotovideo.com/images/images1500x1500/victorinox_57131_swiss_army_rambler_red_1298061.jpg
+
 
 # Page Style
 - font: helvetica
